@@ -1,0 +1,6 @@
+{
+  "rust-analyzer.linkedProjects": [
+    "${workspaceFolder}/ra-wasm/Cargo.toml",
+    "${workspaceFolder}/rust-pack/Cargo.toml",
+  ]
+}
